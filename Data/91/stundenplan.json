@@ -1,0 +1,94 @@
+{
+    "Montag":{
+        "1": "Geschichte",
+        "2": "Relli",
+        "3": "None",
+        "4": "Erdkunde",
+        "5": "Kunst",
+        "6": "None"
+
+    },
+    "Dienstag":{
+        "1": "WP2",
+        "2": "None",
+        "3": "Mathe",
+        "4": "Deutsch",
+        "5": "Physik",
+        "6": "None"
+
+    },
+    "Mittwoch":{
+        "1": "Englisch",
+        "2": "None",
+        "3": "WP1",
+        "4": "None",
+        "5": "Bio",
+        "6": "None"
+
+    },
+    "Donnerstag":{
+        "1": "None",
+        "2": "Wirtschaft",
+        "3": "Mathe",
+        "4": "None",
+        "5": "None",
+        "6": "Englisch"
+
+    },
+    "Freitag":{
+        "1": "Sport",
+        "2": "None",
+        "3": "Deutsch",
+        "4": "WP1",
+        "5": "None",
+        "6": "None"
+
+    },
+    "Mathe": {
+        "1": "",
+        "2": ""
+    },
+    "Deutsch": {
+        "1": ""
+    },
+    "Englisch": {
+        "1": ""
+    },
+    "WP1": {
+        "Französisch":{
+            "Bruckman": {
+
+            },
+            "Kleve": {
+
+            }
+        }
+    },
+    "Informatik": {
+
+    },
+    "Wirtschaft": {
+
+    },
+    "Kunst": {
+
+    },
+    "Geschichte": {
+
+    },
+    "Erdkunde": {
+
+    },
+    "Relli": {
+
+    },
+    "Physik": {
+    },
+    "Sport": {
+
+    },
+    "Bio": {
+        
+    }
+
+}
