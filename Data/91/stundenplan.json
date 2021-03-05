@@ -1,10 +1,10 @@
 {
     
-    "Montag": ["Geschichte","Relli","None","Erdkunde","Kunst","None"],
-    "Dienstag":["WP2","None","Mathe","Deutsch","Physik","None"],
-    "Mittwoch":["Englisch","None","WP1","None","Bio","None"],
-    "Donnerstag":["None","Wirtschaft","Mathe","None","None","Englisch"],
-    "Freitag":["Sport","None","Deutsch","WP1","None","None"]
+    "Montag": ["Geschichte","Relli","","Erdkunde","Kunst",""],
+    "Dienstag":["WP2","","Mathe","Deutsch","Physik",""],
+    "Mittwoch":["Englisch","","WP1","","Bio",""],
+    "Donnerstag":["","Wirtschaft","Mathe","","","Englisch"],
+    "Freitag":["Sport","","Deutsch","WP1","",""]
        
     
 
